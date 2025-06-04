@@ -63,7 +63,7 @@ Stay ethical, stay legal — always scan responsibly.
 ---
 
 <p align="center">
-	<a href="https://github.com/xHak1m/Nmap/blob/main/docs/resources/5%20-%20Cheat%20Sheets/Nmap%20Cheat%20Sheets.md">Previous Page</a>
+	<a href="https://github.com/xHak1m/Nmap/blob/main/docs/resources/5%20-%20Cheat%20Sheets/1%20-%20Nmap%20Cheat%20Sheets.md">Previous Page</a>
 </p>
 <p align="center">
 	<a href="https://github.com/xHak1m/Nmap/tree/main">Exit</a>
